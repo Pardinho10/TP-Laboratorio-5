@@ -1,0 +1,13 @@
+--COMANDOS BASICOS QUE SE EMPLEAN EN GIT---
+LS: Comando para listar directorios y archivos.
+PWD: Comando que indica en que ruta de nuestro sistema esta posicionado el terminal.
+GIT INIT: Comando para inicializar un proyecto nuevo.
+GIT STATUS: Comando para ver el estado de nuestros archivos.
+GIT ADD: comando para agregar un archivo al Staging area (Area de trabajo).
+GIT ADD: nombre-archivo.extension --> pasa al staging area el archivo.
+GIT ADD: Nombre-carpeta/ --> pasa al staging area todo los archivos contenidos.
+GIT COMMIT: Comando para crear el primer punto de control---- (pasamos al repositorio local)
+--- Please tell me who you are.
+
+git config --global user.email "elpardo.ep.10@gmail.com"
+git config --global user.name "Pardinho10"
