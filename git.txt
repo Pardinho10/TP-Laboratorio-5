@@ -12,4 +12,4 @@ GIT COMMIT: Comando para crear el primer punto de control---- (pasamos al reposi
 git config --global user.email "elpardo.ep.10@gmail.com"
 git config --global user.name "Pardinho10"
 GIT LOG: Comando que muestra los commit realizados con datos de usaurio incluso horario.
-kdokokeokdoe
+GIT DIFF: para ver las diferencias entre la ultima version de un archivo y la anterior
