@@ -13,11 +13,11 @@ GIT COMMIT: Comando para crear el primer punto de control---- (pasamos al reposi
 git config --global user.email "elpardo.ep.10@gmail.com"
 git config --global user.name "Pardinho10"
 GIT LOG: Comando que muestra los commit realizados con datos de usaurio incluso horario.
-GIT DIFF: para ver las diferencias entre la ultima version de un archivo y la anterior.
+GIT DIFF "Nombre archivo": para ver las diferencias entre la ultima version de un archivo y la anterior.
+GIT DIFF: nos muestra todos los cambios.
 .GITIGNORE: Es un archivo que contiene los onmbre de archivos(con su extension) y/o carpetas que
     no queremos que sean tenidos en cuenta para subirse al repositorio
 GIT BRANCH: Comando que me permite mostrar las diferentes ramas de nuestro proyecto y en cual
     estamos ubicados (resaltado en color verde)
 GIT BRANCH "Nombre de rama nueva": Comando para crear una rama nueva.
 GIT CHECKOUT "Nombre de rama": Comando para cambiar entre ramas.
-hiwhidhiwhdiw
