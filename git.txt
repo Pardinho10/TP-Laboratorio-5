@@ -21,3 +21,13 @@ GIT BRANCH: Comando que me permite mostrar las diferentes ramas de nuestro proye
     estamos ubicados (resaltado en color verde)
 GIT BRANCH "Nombre de rama nueva": Comando para crear una rama nueva.
 GIT CHECKOUT "Nombre de rama": Comando para cambiar entre ramas.
+GIT MERGE "nombre rama": Comando que permite fusionar ramas.
+
+creamos un repositorio en GitHub y a continuacion:
+GIT REMOTE ADD ORIGIN "https://github.com/Pardinho10/TP-Laboratorio-5.git" (EJEMPLO)
+Este comando permite añadir la direccion de nuestro repositorio remoto donde subiremos nuestros archivos.
+GIT PUSH -U ORIGIN MASTER(o el nombre de la rama alternativa): Comando para enviar nuestros archivos desde
+    el repositorio local (Head) al repositorio remoto en GitHub.
+GIT CLONE "https://github.com/Pardinho10/TP-Laboratorio-5.git": Comando que me permite clonar el repositorio remoto,
+      es decir, trae todos los archivos de este repositorio.
+GIT PULL: Comando que trae los ultimos cambios guardados en el repositorio externo.
